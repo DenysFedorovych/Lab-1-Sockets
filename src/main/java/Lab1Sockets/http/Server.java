@@ -1,4 +1,4 @@
-package org.example.http;
+package Lab1Sockets.http;
 
 import java.util.concurrent.atomic.AtomicLong;
 import java.util.function.Function;

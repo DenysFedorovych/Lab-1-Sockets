@@ -1,4 +1,4 @@
-package org.example.http;
+package Lab1Sockets.http;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;

@@ -1,6 +1,6 @@
-package org.example.http.nonblocking;
+package Lab1Sockets.http.nonblocking;
 
-import org.example.http.Client;
+import Lab1Sockets.http.Client;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

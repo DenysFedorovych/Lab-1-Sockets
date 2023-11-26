@@ -1,6 +1,6 @@
-package org.example.http;
+package Lab1Sockets.http;
 
-import org.example.http.nonblocking.NonBlockingWRServer;
+import Lab1Sockets.http.nonblocking.NonBlockingWRServer;
 
 import java.util.Random;
 import java.util.function.Function;

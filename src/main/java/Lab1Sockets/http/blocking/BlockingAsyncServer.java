@@ -1,6 +1,6 @@
-package org.example.http.blocking;
+package Lab1Sockets.http.blocking;
 
-import org.example.http.Client;
+import Lab1Sockets.http.Client;
 
 import java.io.InputStream;
 import java.io.OutputStream;

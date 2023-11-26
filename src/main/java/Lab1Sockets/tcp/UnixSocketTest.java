@@ -1,8 +1,7 @@
-package org.example.tcp;
+package Lab1Sockets.tcp;
 
 import java.io.IOException;
 import java.net.StandardProtocolFamily;
-import java.net.StandardSocketOptions;
 import java.net.UnixDomainSocketAddress;
 import java.nio.ByteBuffer;
 import java.nio.channels.ServerSocketChannel;

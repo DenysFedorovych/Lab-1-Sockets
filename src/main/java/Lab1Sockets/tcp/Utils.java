@@ -1,4 +1,4 @@
-package org.example.tcp;
+package Lab1Sockets.tcp;
 
 public class Utils {
 

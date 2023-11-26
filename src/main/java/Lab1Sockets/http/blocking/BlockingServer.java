@@ -1,7 +1,7 @@
-package org.example.http.blocking;
+package Lab1Sockets.http.blocking;
 
-import org.example.http.Server;
-import org.example.http.Client;
+import Lab1Sockets.http.Server;
+import Lab1Sockets.http.Client;
 
 import java.io.IOException;
 import java.net.InetAddress;

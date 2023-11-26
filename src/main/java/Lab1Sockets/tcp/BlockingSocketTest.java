@@ -1,4 +1,4 @@
-package org.example.tcp;
+package Lab1Sockets.tcp;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
